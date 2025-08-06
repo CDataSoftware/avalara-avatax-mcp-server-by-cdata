@@ -1,7 +1,7 @@
 # avalara-avatax-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Avalara AvaTax
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Avalara AvaTax (beta)](https://www.cdata.com/download/download.aspx?sku=GEZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Avalara AvaTax (beta)](https://www.cdata.com/download/download.aspx?sku=GEZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Avalara AvaTax supported by the [CData JDBC Driver for Avalara AvaTax](https://www.cdata.com/drivers/avalara/jdbc).
 
